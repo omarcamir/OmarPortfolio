@@ -1,0 +1,148 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+:root{
+  --bgColor : #FFFCF9;
+}
+
+body{
+  background-color: var(--bgColor) !important;
+  font-family: 'Lato', sans-serif !important;
+}
+
+
+/* start about */
+.dash{
+  height: 6px;
+  width: 65px;
+}
+/* end about */
+
+/* start services */
+/* #services{
+  background: url(/images/Omar\ Samir.JPG) no-repeat fixed ;
+  background-size : cover;
+} */
+/* end services */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.arrow-one-content,
+.arrow-two-content,
+.arrow-three-content{
+  position: relative;
+  height: 23vh;
+}
+
+
+.arrow1{
+  width: 250px;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  
+  animation-name: move;
+  animation-duration: 2s;
+}  
+.arrow2{
+  width: 250px;
+  position: absolute;
+  top: 30%;
+  right: 10%;
+
+  animation-name: move2;
+  animation-duration: 2s;
+  animation-delay: 1s;
+}
+
+
+@keyframes move {
+  50%{top: 10%; scale: 130%;}
+  100%{ rotate: 30deg; top: 30%; left: 80%; }
+}  
+@keyframes move2 {
+  50%{top: 10%; scale: 130%;}
+  100%{ rotate: -30deg; top: 30%; right: 80%; }
+}  
+
+
+.arrow-two .arrow1{
+  animation-delay: 2s;
+}
+.arrow-two .arrow2{
+  animation-delay: 3s;
+}
+.arrow-three .arrow1{
+  animation-delay: 4s;
+}
+.arrow-three .arrow2{
+  animation-delay: 5s;
+}
+ */
